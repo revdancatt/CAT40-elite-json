@@ -1,0 +1,4610 @@
+{
+  "AUSIS": {
+    "name": "AUSIS",
+    "x": 4,
+    "y": 180,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 5,
+    "turnover": 6624,
+    "radius": 6660,
+    "population": "23 Billion",
+    "description": "The world Ausis is scourged by deadly tree ants."
+  },
+  "ANDIRI": {
+    "name": "ANDIRI",
+    "x": 53,
+    "y": 157,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 7,
+    "turnover": 14400,
+    "radius": 5685,
+    "population": "36 Billion",
+    "description": "Andiri is ravaged by unpredictable solar activity."
+  },
+  "BEEDBEON": {
+    "name": "BEEDBEON",
+    "x": 199,
+    "y": 254,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 9,
+    "turnover": 16192,
+    "radius": 3783,
+    "population": "46 Billion",
+    "description": "The planet Beedbeon is most famous for its vast oceans."
+  },
+  "MAISSO": {
+    "name": "MAISSO",
+    "x": 159,
+    "y": 179,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 11,
+    "turnover": 24696,
+    "radius": 5791,
+    "population": "49 Billion",
+    "description": "The planet Maisso is a boring planet."
+  },
+  "LADIBE": {
+    "name": "LADIBE",
+    "x": 240,
+    "y": 71,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 1,
+    "turnover": 768,
+    "radius": 4336,
+    "population": "8 Billion",
+    "description": "Ladibe is mildly notable for its inhabitants' unusual silliness."
+  },
+  "VERIAR": {
+    "name": "VERIAR",
+    "x": 53,
+    "y": 147,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 6,
+    "turnover": 5376,
+    "radius": 4405,
+    "population": "24 Billion",
+    "description": "The world Veriar is very famous for Veriarian shrew steak but ravaged by dreadful civil war."
+  },
+  "ESBETE": {
+    "name": "ESBETE",
+    "x": 159,
+    "y": 106,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 12,
+    "turnover": 29952,
+    "radius": 5279,
+    "population": "52 Billion",
+    "description": "This planet is  notable for its unusual oceans and its inhabitants' exceptional loathing of food blenders."
+  },
+  "ESRILEES": {
+    "name": "ESRILEES",
+    "x": 217,
+    "y": 188,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 9,
+    "turnover": 23232,
+    "radius": 5337,
+    "population": "44 Billion",
+    "description": "The world Esrilees is  notable for its unusual tropical forests and its fabulous  Esrileesian lethal water ."
+  },
+  "ESRASOCE": {
+    "name": "ESRASOCE",
+    "x": 169,
+    "y": 193,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 11,
+    "turnover": 34560,
+    "radius": 5289,
+    "population": "48 Billion",
+    "description": "The planet Esrasoce is a boring world."
+  },
+  "LERELA": {
+    "name": "LERELA",
+    "x": 37,
+    "y": 103,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 3,
+    "turnover": 2592,
+    "radius": 3109,
+    "population": "18 Billion",
+    "description": "This planet is a tedious little planet."
+  },
+  "ESZARA": {
+    "name": "ESZARA",
+    "x": 197,
+    "y": 245,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 6,
+    "turnover": 8120,
+    "radius": 5317,
+    "population": "29 Billion",
+    "description": "This planet is beset by a lethal disease."
+  },
+  "ANENAT": {
+    "name": "ANENAT",
+    "x": 226,
+    "y": 84,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 5,
+    "turnover": 3840,
+    "radius": 5858,
+    "population": "24 Billion",
+    "description": "This planet is mildly fabled for the Anenatian mountain poet but scourged by frequent civil war."
+  },
+  "ZALAQURA": {
+    "name": "ZALAQURA",
+    "x": 192,
+    "y": 209,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 9,
+    "turnover": 21888,
+    "radius": 4032,
+    "population": "38 Billion",
+    "description": "The planet Zalaqura is most famous for the Zalaquraian spotted wolf."
+  },
+  "CERARE": {
+    "name": "CERARE",
+    "x": 116,
+    "y": 154,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 8,
+    "turnover": 17920,
+    "radius": 4212,
+    "population": "35 Billion",
+    "description": "This planet is  fabled for its ancient Cerarian OLONU plant plantations."
+  },
+  "INZAQUMA": {
+    "name": "INZAQUMA",
+    "x": 169,
+    "y": 14,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 4,
+    "turnover": 3200,
+    "radius": 6057,
+    "population": "20 Billion",
+    "description": "This planet is very well known for its inhabitants' unusual mating traditions and its exotic night life."
+  },
+  "ARATUSZA": {
+    "name": "ARATUSZA",
+    "x": 75,
+    "y": 122,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 11,
+    "turnover": 20608,
+    "radius": 5451,
+    "population": "46 Billion",
+    "description": "This world is  fabled for its ancient mountains."
+  },
+  "ISARIN": {
+    "name": "ISARIN",
+    "x": 4,
+    "y": 40,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 9,
+    "turnover": 16800,
+    "radius": 6148,
+    "population": "35 Billion",
+    "description": "The world Isarin is beset by a lethal disease."
+  },
+  "ESESBI": {
+    "name": "ESESBI",
+    "x": 83,
+    "y": 44,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 10,
+    "turnover": 22560,
+    "radius": 5203,
+    "population": "47 Billion",
+    "description": "The world Esesbi is a boring planet."
+  },
+  "ARMAAZA": {
+    "name": "ARMAAZA",
+    "x": 249,
+    "y": 38,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 7,
+    "turnover": 13376,
+    "radius": 5625,
+    "population": "38 Billion",
+    "description": "This planet is most notable for Armaazaian lethal water but plagued by occasional solar activity."
+  },
+  "RIENLA": {
+    "name": "RIENLA",
+    "x": 100,
+    "y": 175,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 4,
+    "turnover": 5400,
+    "radius": 6500,
+    "population": "25 Billion",
+    "description": "The planet Rienla is very noted for its ancient mountains but plagued by a lethal disease."
+  },
+  "DIUSTE": {
+    "name": "DIUSTE",
+    "x": 134,
+    "y": 117,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 3,
+    "turnover": 1536,
+    "radius": 6278,
+    "population": "16 Billion",
+    "description": "The world Diuste is reasonably famous for its inhabitants' exceptional loathing of sit coms."
+  },
+  "VEZADI": {
+    "name": "VEZADI",
+    "x": 178,
+    "y": 156,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 4,
+    "turnover": 2432,
+    "radius": 4530,
+    "population": "19 Billion",
+    "description": "Vezadi is reasonably well known for the Vezadian tree ant but cursed by killer edible Soids."
+  },
+  "QUAEN": {
+    "name": "QUAEN",
+    "x": 168,
+    "y": 173,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 6,
+    "turnover": 11160,
+    "radius": 5544,
+    "population": "31 Billion",
+    "description": "This planet is  notable for its unusual oceans and its inhabitants' eccentric love for tourists."
+  },
+  "RIDIUSLA": {
+    "name": "RIDIUSLA",
+    "x": 60,
+    "y": 242,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 10,
+    "turnover": 32384,
+    "radius": 6460,
+    "population": "46 Billion",
+    "description": "This planet is a tedious little planet."
+  },
+  "MAESARON": {
+    "name": "MAESARON",
+    "x": 149,
+    "y": 104,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 12,
+    "turnover": 40800,
+    "radius": 5781,
+    "population": "51 Billion",
+    "description": "The planet Maesaron is an unremarkable dump."
+  },
+  "BERIEN": {
+    "name": "BERIEN",
+    "x": 63,
+    "y": 234,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 10,
+    "turnover": 15744,
+    "radius": 3647,
+    "population": "41 Billion",
+    "description": "Berien is mildly famous for its pink oceans and its unusual casinos."
+  },
+  "RAMAZA": {
+    "name": "RAMAZA",
+    "x": 228,
+    "y": 18,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 8,
+    "turnover": 15232,
+    "radius": 4068,
+    "population": "34 Billion",
+    "description": "This world is most notable for its exotic night life but ravaged by frequent earthquakes."
+  },
+  "BEANEN": {
+    "name": "BEANEN",
+    "x": 164,
+    "y": 196,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 3,
+    "turnover": 2560,
+    "radius": 3748,
+    "population": "16 Billion",
+    "description": "This world is most fabled for Beanenian lethal brandy but scourged by deadly tree ants."
+  },
+  "ERCETIDI": {
+    "name": "ERCETIDI",
+    "x": 193,
+    "y": 178,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 9,
+    "turnover": 19968,
+    "radius": 3009,
+    "population": "39 Billion",
+    "description": "This world is reasonably notable for its wierd tropical forests but scourged by dreadful solar activity."
+  },
+  "ESRECE": {
+    "name": "ESRECE",
+    "x": 109,
+    "y": 151,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 4,
+    "turnover": 4608,
+    "radius": 5229,
+    "population": "24 Billion",
+    "description": "Esrece is cursed by dreadful civil war."
+  },
+  "ATRAZAMA": {
+    "name": "ATRAZAMA",
+    "x": 29,
+    "y": 197,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 3,
+    "turnover": 2040,
+    "radius": 3101,
+    "population": "17 Billion",
+    "description": "This planet is a dull world."
+  },
+  "ZARAGETE": {
+    "name": "ZARAGETE",
+    "x": 43,
+    "y": 36,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 9,
+    "turnover": 13440,
+    "radius": 3883,
+    "population": "40 Billion",
+    "description": "This world is very fabled for its unusual oceans."
+  },
+  "BEBEGE": {
+    "name": "BEBEGE",
+    "x": 220,
+    "y": 3,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 6,
+    "turnover": 8736,
+    "radius": 3804,
+    "population": "26 Billion",
+    "description": "This world is most fabled for Zero-G hockey but ravaged by occasional earthquakes."
+  },
+  "DITI": {
+    "name": "DITI",
+    "x": 105,
+    "y": 163,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 9,
+    "turnover": 23520,
+    "radius": 2921,
+    "population": "42 Billion",
+    "description": "The planet Diti is  famous for Ditian shrew steak but ravaged by unpredictable civil war."
+  },
+  "ESCEBELE": {
+    "name": "ESCEBELE",
+    "x": 4,
+    "y": 55,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 5,
+    "turnover": 8184,
+    "radius": 5124,
+    "population": "31 Billion",
+    "description": "Escebele is mildly well known for its hoopy casinos."
+  },
+  "QUREAR": {
+    "name": "QUREAR",
+    "x": 33,
+    "y": 147,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 9,
+    "turnover": 20664,
+    "radius": 5409,
+    "population": "41 Billion",
+    "description": "The planet Qurear is reasonably noted for its inhabitants' eccentric shyness and mud tennis."
+  },
+  "DIMADI": {
+    "name": "DIMADI",
+    "x": 243,
+    "y": 10,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 9,
+    "turnover": 8960,
+    "radius": 6387,
+    "population": "35 Billion",
+    "description": "This planet is most fabled for Zero-G cricket but cursed by unpredictable solar activity."
+  },
+  "ONENTI": {
+    "name": "ONENTI",
+    "x": 38,
+    "y": 141,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 3,
+    "turnover": 1536,
+    "radius": 6694,
+    "population": "16 Billion",
+    "description": "This planet is most notable for Onentian ESE water but beset by dreadful earthquakes."
+  },
+  "BERAER": {
+    "name": "BERAER",
+    "x": 137,
+    "y": 215,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 5,
+    "turnover": 6264,
+    "radius": 3721,
+    "population": "29 Billion",
+    "description": "Beraer is reasonably well known for its great dense forests but beset by deadly tree grubs."
+  },
+  "TEZAEDED": {
+    "name": "TEZAEDED",
+    "x": 151,
+    "y": 16,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 15,
+    "turnover": 56320,
+    "radius": 6039,
+    "population": "64 Billion",
+    "description": "The planet Tezaeded is  famous for its exotic fish cutlet but beset by evil spotted cats."
+  },
+  "LABILAEN": {
+    "name": "LABILAEN",
+    "x": 88,
+    "y": 120,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 11,
+    "turnover": 37600,
+    "radius": 4184,
+    "population": "47 Billion",
+    "description": "The world Labilaen is mildly noted for its ancient mountains but ravaged by unpredictable solar activity."
+  },
+  "REVEVE": {
+    "name": "REVEVE",
+    "x": 82,
+    "y": 85,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 6,
+    "turnover": 6720,
+    "radius": 6482,
+    "population": "28 Billion",
+    "description": "This world is very notable for the Revevian tree grub."
+  },
+  "SOORTE": {
+    "name": "SOORTE",
+    "x": 219,
+    "y": 22,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 7,
+    "turnover": 7616,
+    "radius": 4827,
+    "population": "34 Billion",
+    "description": "Soorte is a revolting little planet."
+  },
+  "ENINTE": {
+    "name": "ENINTE",
+    "x": 93,
+    "y": 28,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 4,
+    "turnover": 3200,
+    "radius": 3421,
+    "population": "20 Billion",
+    "description": "This world is mildly well known for its exotic cuisine and its inhabitants' ingrained silliness."
+  },
+  "ZATETEIS": {
+    "name": "ZATETEIS",
+    "x": 155,
+    "y": 252,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 9,
+    "turnover": 15744,
+    "radius": 3995,
+    "population": "41 Billion",
+    "description": "The planet Zateteis is an unremarkable dump."
+  },
+  "VEERGE": {
+    "name": "VEERGE",
+    "x": 93,
+    "y": 124,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 7,
+    "turnover": 12672,
+    "radius": 4445,
+    "population": "33 Billion",
+    "description": "The world Veerge is a boring planet."
+  },
+  "RIDIVEXE": {
+    "name": "RIDIVEXE",
+    "x": 106,
+    "y": 99,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 8,
+    "turnover": 9240,
+    "radius": 6506,
+    "population": "33 Billion",
+    "description": "Ridivexe is cursed by killer mountain goats."
+  },
+  "CERISOMA": {
+    "name": "CERISOMA",
+    "x": 2,
+    "y": 182,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 6,
+    "turnover": 6720,
+    "radius": 4098,
+    "population": "30 Billion",
+    "description": "The planet Cerisoma is most noted for its inhabitants' exceptional loathing of food blenders and its exciting sit coms."
+  },
+  "ATZAXE": {
+    "name": "ATZAXE",
+    "x": 139,
+    "y": 71,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 5,
+    "turnover": 3744,
+    "radius": 3211,
+    "population": "26 Billion",
+    "description": "The planet Atzaxe is a boring planet."
+  },
+  "RIEDA": {
+    "name": "RIEDA",
+    "x": 120,
+    "y": 2,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 9,
+    "turnover": 26240,
+    "radius": 6520,
+    "population": "41 Billion",
+    "description": "The world Rieda is reasonably famous for the Riedaian evil ENUoid."
+  },
+  "ERSOONVE": {
+    "name": "ERSOONVE",
+    "x": 231,
+    "y": 47,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 8,
+    "turnover": 11352,
+    "radius": 3047,
+    "population": "43 Billion",
+    "description": "The world Ersoonve is beset by dreadful earthquakes."
+  },
+  "ISBEUS": {
+    "name": "ISBEUS",
+    "x": 214,
+    "y": 95,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 6,
+    "turnover": 7128,
+    "radius": 6358,
+    "population": "33 Billion",
+    "description": "This world is most fabled for Isbeusian IR juice but plagued by lethal spotted batoids."
+  },
+  "LATIBI": {
+    "name": "LATIBI",
+    "x": 57,
+    "y": 8,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 7,
+    "turnover": 6912,
+    "radius": 4153,
+    "population": "27 Billion",
+    "description": "This planet is a dull place."
+  },
+  "AUSAR": {
+    "name": "AUSAR",
+    "x": 146,
+    "y": 102,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 4,
+    "turnover": 2432,
+    "radius": 6802,
+    "population": "19 Billion",
+    "description": "The planet Ausar is an unremarkable dump."
+  },
+  "RAVE": {
+    "name": "RAVE",
+    "x": 65,
+    "y": 234,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 10,
+    "turnover": 25344,
+    "radius": 3905,
+    "population": "44 Billion",
+    "description": "Rave is most famous for the Ravian spotted shrew and the Ravian edible arts graduate."
+  },
+  "LEGEARA": {
+    "name": "LEGEARA",
+    "x": 234,
+    "y": 22,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 8,
+    "turnover": 14784,
+    "radius": 3306,
+    "population": "42 Billion",
+    "description": "This world is a tedious little planet."
+  },
+  "SOINUSTE": {
+    "name": "SOINUSTE",
+    "x": 244,
+    "y": 239,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 4,
+    "turnover": 6240,
+    "radius": 4852,
+    "population": "26 Billion",
+    "description": "This world is a tedious place."
+  },
+  "ERLAGE": {
+    "name": "ERLAGE",
+    "x": 92,
+    "y": 168,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 9,
+    "turnover": 16800,
+    "radius": 2908,
+    "population": "35 Billion",
+    "description": "Erlage is cursed by vicious mountain bisons."
+  },
+  "XEATE": {
+    "name": "XEATE",
+    "x": 169,
+    "y": 3,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 8,
+    "turnover": 13720,
+    "radius": 3497,
+    "population": "35 Billion",
+    "description": "Xeate is an unremarkable dump."
+  },
+  "QUCEDI": {
+    "name": "QUCEDI",
+    "x": 14,
+    "y": 92,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 5,
+    "turnover": 3840,
+    "radius": 5390,
+    "population": "24 Billion",
+    "description": "This planet is mildly fabled for its inhabitants' eccentric shyness but ravaged by a killer disease."
+  },
+  "ANESCE": {
+    "name": "ANESCE",
+    "x": 77,
+    "y": 173,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 6,
+    "turnover": 9600,
+    "radius": 2893,
+    "population": "30 Billion",
+    "description": "The planet Anesce is  well known for its inhabitants' unusual silliness but cursed by deadly civil war."
+  },
+  "ARORAR": {
+    "name": "ARORAR",
+    "x": 69,
+    "y": 73,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 10,
+    "turnover": 24192,
+    "radius": 5445,
+    "population": "42 Billion",
+    "description": "This world is  noted for its exciting sit coms."
+  },
+  "BEDIERAT": {
+    "name": "BEDIERAT",
+    "x": 143,
+    "y": 234,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 10,
+    "turnover": 12800,
+    "radius": 3727,
+    "population": "40 Billion",
+    "description": "Bedierat is  well known for the Bedieratian spotted leopard but ravaged by frequent earthquakes."
+  },
+  "AATENBE": {
+    "name": "AATENBE",
+    "x": 209,
+    "y": 48,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 11,
+    "turnover": 24640,
+    "radius": 6865,
+    "population": "44 Billion",
+    "description": "This world is most notable for its fabulous  vicious \u0000 brew  but ravaged by vicious mountain beasts."
+  },
+  "TIISES": {
+    "name": "TIISES",
+    "x": 19,
+    "y": 242,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 10,
+    "turnover": 15744,
+    "radius": 4627,
+    "population": "41 Billion",
+    "description": "Tiises is most famous for its vast rain forests and the Tiisesian tree grub."
+  },
+  "CEINER": {
+    "name": "CEINER",
+    "x": 126,
+    "y": 73,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 12,
+    "turnover": 37440,
+    "radius": 4222,
+    "population": "52 Billion",
+    "description": "The planet Ceiner is a boring planet."
+  },
+  "ONATBEZA": {
+    "name": "ONATBEZA",
+    "x": 162,
+    "y": 16,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 14,
+    "turnover": 52800,
+    "radius": 6818,
+    "population": "60 Billion",
+    "description": "Onatbeza is reasonably notable for its exotic cuisine but plagued by a vicious disease."
+  },
+  "ESDI": {
+    "name": "ESDI",
+    "x": 132,
+    "y": 19,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 8,
+    "turnover": 18648,
+    "radius": 5252,
+    "population": "37 Billion",
+    "description": "Esdi is  well known for its inhabitants' ancient mating traditions but ravaged by unpredictable solar activity."
+  },
+  "CEARSO": {
+    "name": "CEARSO",
+    "x": 87,
+    "y": 109,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 4,
+    "turnover": 1920,
+    "radius": 4183,
+    "population": "20 Billion",
+    "description": "The planet Cearso is very famous for its unusual casinos but beset by a lethal disease."
+  },
+  "USCEZA": {
+    "name": "USCEZA",
+    "x": 246,
+    "y": 39,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 3,
+    "turnover": 1536,
+    "radius": 5110,
+    "population": "16 Billion",
+    "description": "This world is a tedious place."
+  },
+  "ISRAZA": {
+    "name": "ISRAZA",
+    "x": 210,
+    "y": 228,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 9,
+    "turnover": 18144,
+    "radius": 6354,
+    "population": "42 Billion",
+    "description": "The world Israza is  notable for the Israzaian edible grub and the Israzaian tree snake."
+  },
+  "AESAUS": {
+    "name": "AESAUS",
+    "x": 54,
+    "y": 4,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 10,
+    "turnover": 25344,
+    "radius": 6710,
+    "population": "48 Billion",
+    "description": "This world is very fabled for its wierd volcanoes."
+  },
+  "LEORGERI": {
+    "name": "LEORGERI",
+    "x": 104,
+    "y": 207,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 4,
+    "turnover": 6240,
+    "radius": 3176,
+    "population": "26 Billion",
+    "description": "The world Leorgeri is a dull place."
+  },
+  "ANISTI": {
+    "name": "ANISTI",
+    "x": 94,
+    "y": 227,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 8,
+    "turnover": 11424,
+    "radius": 5726,
+    "population": "34 Billion",
+    "description": "This world is mildly famous for its unusual sit coms and the Anistian spotted wolf."
+  },
+  "CEDIZA": {
+    "name": "CEDIZA",
+    "x": 80,
+    "y": 215,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 3,
+    "turnover": 3192,
+    "radius": 4176,
+    "population": "19 Billion",
+    "description": "The planet Cediza is  famous for Cedizaian wolf meat but scourged by deadly civil war."
+  },
+  "ESCESO": {
+    "name": "ESCESO",
+    "x": 183,
+    "y": 132,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 6,
+    "turnover": 4480,
+    "radius": 5303,
+    "population": "28 Billion",
+    "description": "Esceso is a revolting dump."
+  },
+  "ZAXERICE": {
+    "name": "ZAXERICE",
+    "x": 215,
+    "y": 199,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 6,
+    "turnover": 6144,
+    "radius": 4055,
+    "population": "32 Billion",
+    "description": "Zaxerice is an unremarkable dump."
+  },
+  "SOMAED": {
+    "name": "SOMAED",
+    "x": 37,
+    "y": 254,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 5,
+    "turnover": 6912,
+    "radius": 4645,
+    "population": "27 Billion",
+    "description": "Somaed is most noted for the Somaedian evil poet and Somaedian SILIR water."
+  },
+  "ERLAENED": {
+    "name": "ERLAENED",
+    "x": 140,
+    "y": 88,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 7,
+    "turnover": 8960,
+    "radius": 2956,
+    "population": "28 Billion",
+    "description": "This planet is reasonably noted for mud tennis."
+  },
+  "INBIBE": {
+    "name": "INBIBE",
+    "x": 152,
+    "y": 146,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 8,
+    "turnover": 15232,
+    "radius": 2968,
+    "population": "34 Billion",
+    "description": "This planet is very notable for its inhabitants' ingrained shyness and its fabulous cuisine."
+  },
+  "CEONED": {
+    "name": "CEONED",
+    "x": 115,
+    "y": 6,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 6,
+    "turnover": 5568,
+    "radius": 4211,
+    "population": "29 Billion",
+    "description": "The planet Ceoned is  well known for its inhabitants' ancient mating traditions but cursed by dreadful civil war."
+  },
+  "BEUSED": {
+    "name": "BEUSED",
+    "x": 124,
+    "y": 120,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 11,
+    "turnover": 37600,
+    "radius": 3708,
+    "population": "47 Billion",
+    "description": "This planet is  fabled for its exciting  Zero-G cricket ."
+  },
+  "VEZAAES": {
+    "name": "VEZAAES",
+    "x": 52,
+    "y": 216,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 12,
+    "turnover": 45760,
+    "radius": 4404,
+    "population": "52 Billion",
+    "description": "The world Vezaaes is very famous for Vezaaesian shrew steak but ravaged by dreadful civil war."
+  },
+  "TELAAN": {
+    "name": "TELAAN",
+    "x": 41,
+    "y": 175,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 5,
+    "turnover": 6264,
+    "radius": 5929,
+    "population": "29 Billion",
+    "description": "The planet Telaan is cursed by deadly civil war."
+  },
+  "ISCEER": {
+    "name": "ISCEER",
+    "x": 77,
+    "y": 59,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 6,
+    "turnover": 5376,
+    "radius": 6221,
+    "population": "24 Billion",
+    "description": "This planet is  noted for its exciting sit coms."
+  },
+  "USMASO": {
+    "name": "USMASO",
+    "x": 83,
+    "y": 208,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 9,
+    "turnover": 8960,
+    "radius": 4947,
+    "population": "35 Billion",
+    "description": "The world Usmaso is a boring planet."
+  },
+  "REERQU": {
+    "name": "REERQU",
+    "x": 59,
+    "y": 199,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 7,
+    "turnover": 7992,
+    "radius": 6459,
+    "population": "37 Billion",
+    "description": "The world Reerqu is mildly fabled for the Reerquian edible moth but plagued by a vicious disease."
+  },
+  "ZAEDVERA": {
+    "name": "ZAEDVERA",
+    "x": 121,
+    "y": 218,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 11,
+    "turnover": 35200,
+    "radius": 3961,
+    "population": "50 Billion",
+    "description": "Zaedvera is cursed by killer mountain goats."
+  },
+  "GEREBIED": {
+    "name": "GEREBIED",
+    "x": 180,
+    "y": 22,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 5,
+    "turnover": 9280,
+    "radius": 3764,
+    "population": "29 Billion",
+    "description": "The world Gerebied is reasonably noted for its inhabitants' exceptional loathing of food blenders."
+  },
+  "DIDIRA": {
+    "name": "DIDIRA",
+    "x": 88,
+    "y": 6,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 3,
+    "turnover": 3264,
+    "radius": 6232,
+    "population": "17 Billion",
+    "description": "The planet Didira is  well known for its inhabitants' wierd silliness but ravaged by unpredictable solar activity."
+  },
+  "ERRARA": {
+    "name": "ERRARA",
+    "x": 207,
+    "y": 148,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 9,
+    "turnover": 13440,
+    "radius": 3023,
+    "population": "40 Billion",
+    "description": "The world Errara is  fabled for its fabulous cuisine and its ancient mountains."
+  },
+  "LEREUS": {
+    "name": "LEREUS",
+    "x": 89,
+    "y": 148,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 4,
+    "turnover": 3200,
+    "radius": 3161,
+    "population": "20 Billion",
+    "description": "The planet Lereus is very famous for its hoopy night life but scourged by deadly tree grubs."
+  },
+  "ERENANRI": {
+    "name": "ERENANRI",
+    "x": 56,
+    "y": 72,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 10,
+    "turnover": 26240,
+    "radius": 2872,
+    "population": "41 Billion",
+    "description": "This planet is a dull place."
+  },
+  "MACEA": {
+    "name": "MACEA",
+    "x": 254,
+    "y": 155,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 9,
+    "turnover": 17920,
+    "radius": 5886,
+    "population": "40 Billion",
+    "description": "The world Macea is beset by dreadful earthquakes."
+  },
+  "LACETEED": {
+    "name": "LACETEED",
+    "x": 96,
+    "y": 175,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 2,
+    "turnover": 1560,
+    "radius": 4192,
+    "population": "13 Billion",
+    "description": "The world Laceteed is a dull place."
+  },
+  "QUALEMA": {
+    "name": "QUALEMA",
+    "x": 88,
+    "y": 220,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 6,
+    "turnover": 9408,
+    "radius": 5464,
+    "population": "28 Billion",
+    "description": "This world is  fabled for its unusual tropical forests."
+  },
+  "ANUSA": {
+    "name": "ANUSA",
+    "x": 171,
+    "y": 129,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 11,
+    "turnover": 19008,
+    "radius": 5803,
+    "population": "44 Billion",
+    "description": "The world Anusa is reasonably noted for its fabulous goat soup."
+  },
+  "ARINES": {
+    "name": "ARINES",
+    "x": 114,
+    "y": 143,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 6,
+    "turnover": 8160,
+    "radius": 5490,
+    "population": "34 Billion",
+    "description": "The world Arines is a dull world."
+  },
+  "LARIBEBI": {
+    "name": "LARIBEBI",
+    "x": 159,
+    "y": 137,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 14,
+    "turnover": 48312,
+    "radius": 4255,
+    "population": "61 Billion",
+    "description": "This world is plagued by frequent earthquakes."
+  },
+  "EDATER": {
+    "name": "EDATER",
+    "x": 198,
+    "y": 51,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 10,
+    "turnover": 22680,
+    "radius": 5062,
+    "population": "45 Billion",
+    "description": "Edater is an unremarkable dump."
+  },
+  "ISUSLE": {
+    "name": "ISUSLE",
+    "x": 26,
+    "y": 112,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 8,
+    "turnover": 7936,
+    "radius": 6170,
+    "population": "31 Billion",
+    "description": "This world is very fabled for its unusual tropical forests."
+  },
+  "ATORAT": {
+    "name": "ATORAT",
+    "x": 167,
+    "y": 97,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 8,
+    "turnover": 7168,
+    "radius": 3239,
+    "population": "32 Billion",
+    "description": "Atorat is  well known for its inhabitants' ancient mating traditions but ravaged by occasional solar activity."
+  },
+  "SOLAED": {
+    "name": "SOLAED",
+    "x": 124,
+    "y": 145,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 10,
+    "turnover": 27864,
+    "radius": 4732,
+    "population": "43 Billion",
+    "description": "Solaed is ravaged by unpredictable civil war."
+  },
+  "XEABITI": {
+    "name": "XEABITI",
+    "x": 180,
+    "y": 152,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 12,
+    "turnover": 45760,
+    "radius": 3508,
+    "population": "52 Billion",
+    "description": "The world Xeabiti is  fabled for its wierd rock formations and the Xeabitian deadly monkey."
+  },
+  "DIMAATMA": {
+    "name": "DIMAATMA",
+    "x": 215,
+    "y": 198,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 8,
+    "turnover": 13120,
+    "radius": 6359,
+    "population": "41 Billion",
+    "description": "This planet is beset by dreadful earthquakes."
+  },
+  "USCEED": {
+    "name": "USCEED",
+    "x": 75,
+    "y": 17,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 11,
+    "turnover": 19008,
+    "radius": 4939,
+    "population": "44 Billion",
+    "description": "Usceed is most noted for the Usceedian deadly lobstoid and its pink Usceedian N corn plantations."
+  },
+  "GEXEIN": {
+    "name": "GEXEIN",
+    "x": 38,
+    "y": 56,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 12,
+    "turnover": 26880,
+    "radius": 3622,
+    "population": "48 Billion",
+    "description": "This planet is a dull world."
+  },
+  "ONEN": {
+    "name": "ONEN",
+    "x": 242,
+    "y": 140,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 5,
+    "turnover": 3840,
+    "radius": 3058,
+    "population": "24 Billion",
+    "description": "The planet Onen is reasonably noted for its inhabitants' exceptional love for tourists and its wierd volcanoes."
+  },
+  "ZAESRE": {
+    "name": "ZAESRE",
+    "x": 114,
+    "y": 50,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 10,
+    "turnover": 22016,
+    "radius": 3954,
+    "population": "43 Billion",
+    "description": "This world is plagued by frequent earthquakes."
+  },
+  "EDSODI": {
+    "name": "EDSODI",
+    "x": 206,
+    "y": 32,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 12,
+    "turnover": 31360,
+    "radius": 5070,
+    "population": "49 Billion",
+    "description": "This world is reasonably notable for its exotic night life but ravaged by frequent earthquakes."
+  },
+  "XERIREA": {
+    "name": "XERIREA",
+    "x": 13,
+    "y": 237,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 3,
+    "turnover": 2040,
+    "radius": 3341,
+    "population": "17 Billion",
+    "description": "Xerirea is very notable for its inhabitants' ingrained shyness."
+  },
+  "ANORCEQU": {
+    "name": "ANORCEQU",
+    "x": 15,
+    "y": 14,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 7,
+    "turnover": 7616,
+    "radius": 5647,
+    "population": "34 Billion",
+    "description": "Anorcequ is most famous for its vast dense forests and its great volcanoes."
+  },
+  "ORORRE": {
+    "name": "ORORRE",
+    "x": 186,
+    "y": 101,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 6,
+    "turnover": 6720,
+    "radius": 5306,
+    "population": "28 Billion",
+    "description": "Ororre is a revolting little planet."
+  },
+  "USTILE": {
+    "name": "USTILE",
+    "x": 97,
+    "y": 142,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 6,
+    "turnover": 10560,
+    "radius": 4961,
+    "population": "33 Billion",
+    "description": "This planet is  fabled for its wierd volcanoes."
+  },
+  "TEONAN": {
+    "name": "TEONAN",
+    "x": 226,
+    "y": 33,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 13,
+    "turnover": 45144,
+    "radius": 6114,
+    "population": "57 Billion",
+    "description": "The planet Teonan is mildly well known for its hoopy night life."
+  },
+  "ANVERE": {
+    "name": "ANVERE",
+    "x": 91,
+    "y": 159,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 7,
+    "turnover": 7992,
+    "radius": 5723,
+    "population": "37 Billion",
+    "description": "This planet is reasonably noted for its fabulous goat soup."
+  },
+  "CERAQU": {
+    "name": "CERAQU",
+    "x": 192,
+    "y": 14,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 2,
+    "turnover": 1408,
+    "radius": 4288,
+    "population": "11 Billion",
+    "description": "This world is most fabled for Ceraquian lethal brandy but scourged by frequent civil war."
+  },
+  "LEAZA": {
+    "name": "LEAZA",
+    "x": 243,
+    "y": 218,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 9,
+    "turnover": 8960,
+    "radius": 3315,
+    "population": "35 Billion",
+    "description": "This planet is mildly fabled for the Leazaian mountain poet but scourged by deadly solar activity."
+  },
+  "USLERI": {
+    "name": "USLERI",
+    "x": 148,
+    "y": 68,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 7,
+    "turnover": 14688,
+    "radius": 5012,
+    "population": "34 Billion",
+    "description": "This world is ravaged by dreadful civil war."
+  },
+  "SOREISBE": {
+    "name": "SOREISBE",
+    "x": 231,
+    "y": 62,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 9,
+    "turnover": 16192,
+    "radius": 4839,
+    "population": "46 Billion",
+    "description": "The planet Soreisbe is most famous for the Soreisbian deadly goat and its hoopy casinos."
+  },
+  "ONATZALA": {
+    "name": "ONATZALA",
+    "x": 211,
+    "y": 221,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 9,
+    "turnover": 17600,
+    "radius": 6867,
+    "population": "44 Billion",
+    "description": "Onatzala is a revolting dump."
+  },
+  "ARZACE": {
+    "name": "ARZACE",
+    "x": 53,
+    "y": 4,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 6,
+    "turnover": 7776,
+    "radius": 5429,
+    "population": "27 Billion",
+    "description": "The planet Arzace is scourged by a evil disease."
+  },
+  "RIEDIN": {
+    "name": "RIEDIN",
+    "x": 84,
+    "y": 197,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 5,
+    "turnover": 7000,
+    "radius": 6484,
+    "population": "25 Billion",
+    "description": "This world is  fabled for its unusual tropical forests."
+  },
+  "USEDGE": {
+    "name": "USEDGE",
+    "x": 131,
+    "y": 108,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 6,
+    "turnover": 4480,
+    "radius": 4995,
+    "population": "28 Billion",
+    "description": "Usedge is cursed by dreadful civil war."
+  },
+  "USDIVE": {
+    "name": "USDIVE",
+    "x": 132,
+    "y": 131,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 7,
+    "turnover": 14336,
+    "radius": 2948,
+    "population": "32 Billion",
+    "description": "Usdive is ravaged by dreadful civil war."
+  },
+  "INERRA": {
+    "name": "INERRA",
+    "x": 150,
+    "y": 141,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 7,
+    "turnover": 10880,
+    "radius": 6038,
+    "population": "34 Billion",
+    "description": "The planet Inerra is an unremarkable dump."
+  },
+  "TIRIUSRI": {
+    "name": "TIRIUSRI",
+    "x": 146,
+    "y": 20,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 5,
+    "turnover": 3840,
+    "radius": 4754,
+    "population": "24 Billion",
+    "description": "Tiriusri is reasonably notable for its fabulous cuisine but plagued by a lethal disease."
+  },
+  "CEINERXE": {
+    "name": "CEINERXE",
+    "x": 190,
+    "y": 40,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 12,
+    "turnover": 26880,
+    "radius": 4286,
+    "population": "48 Billion",
+    "description": "This planet is plagued by frequent earthquakes."
+  },
+  "ONENLA": {
+    "name": "ONENLA",
+    "x": 162,
+    "y": 176,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 11,
+    "turnover": 20640,
+    "radius": 6818,
+    "population": "43 Billion",
+    "description": "This world is plagued by occasional solar activity."
+  },
+  "AMAXE": {
+    "name": "AMAXE",
+    "x": 71,
+    "y": 117,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 9,
+    "turnover": 17600,
+    "radius": 6727,
+    "population": "44 Billion",
+    "description": "The world Amaxe is a dull world."
+  },
+  "MAARBEES": {
+    "name": "MAARBEES",
+    "x": 253,
+    "y": 162,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 11,
+    "turnover": 35200,
+    "radius": 5885,
+    "population": "50 Billion",
+    "description": "This planet is mildly noted for the Maarbeesian mountain lobstoid but beset by deadly earthquakes."
+  },
+  "SOGEBE": {
+    "name": "SOGEBE",
+    "x": 233,
+    "y": 243,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 9,
+    "turnover": 20664,
+    "radius": 4841,
+    "population": "41 Billion",
+    "description": "Sogebe is an unremarkable planet."
+  },
+  "LASOAN": {
+    "name": "LASOAN",
+    "x": 62,
+    "y": 19,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 7,
+    "turnover": 6272,
+    "radius": 4158,
+    "population": "28 Billion",
+    "description": "The world Lasoan is a dull world."
+  },
+  "QUINRI": {
+    "name": "QUINRI",
+    "x": 55,
+    "y": 59,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 8,
+    "turnover": 7168,
+    "radius": 5431,
+    "population": "32 Billion",
+    "description": "The planet Quinri is scourged by deadly tree grubs."
+  },
+  "ATLAIN": {
+    "name": "ATLAIN",
+    "x": 133,
+    "y": 222,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 6,
+    "turnover": 9216,
+    "radius": 3205,
+    "population": "32 Billion",
+    "description": "The world Atlain is a dull place."
+  },
+  "LARAISSO": {
+    "name": "LARAISSO",
+    "x": 19,
+    "y": 204,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 11,
+    "turnover": 27456,
+    "radius": 4115,
+    "population": "52 Billion",
+    "description": "The planet Laraisso is reasonably noted for mud tennis and its ancient mountains."
+  },
+  "ORRIONTI": {
+    "name": "ORRIONTI",
+    "x": 167,
+    "y": 93,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 9,
+    "turnover": 17600,
+    "radius": 5287,
+    "population": "44 Billion",
+    "description": "This planet is beset by a lethal disease."
+  },
+  "LAINOR": {
+    "name": "LAINOR",
+    "x": 23,
+    "y": 223,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 5,
+    "turnover": 3744,
+    "radius": 4119,
+    "population": "26 Billion",
+    "description": "Lainor is most famous for its pink oceans and its exciting sit coms."
+  },
+  "LEVERA": {
+    "name": "LEVERA",
+    "x": 91,
+    "y": 57,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 12,
+    "turnover": 24696,
+    "radius": 3163,
+    "population": "49 Billion",
+    "description": "This world is mildly famous for its vast dense forests and its unusual dense forests."
+  },
+  "TIEDIS": {
+    "name": "TIEDIS",
+    "x": 12,
+    "y": 52,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 3,
+    "turnover": 2560,
+    "radius": 4620,
+    "population": "16 Billion",
+    "description": "The world Tiedis is beset by dreadful earthquakes."
+  },
+  "ZAAXEVE": {
+    "name": "ZAAXEVE",
+    "x": 110,
+    "y": 61,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 7,
+    "turnover": 10880,
+    "radius": 3950,
+    "population": "34 Billion",
+    "description": "This world is very notable for the Zaaxevian tree wolf and its unusual sit coms."
+  },
+  "ESXEXE": {
+    "name": "ESXEXE",
+    "x": 86,
+    "y": 226,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 10,
+    "turnover": 22016,
+    "radius": 5206,
+    "population": "43 Billion",
+    "description": "This planet is a dull place."
+  },
+  "RABIARCE": {
+    "name": "RABIARCE",
+    "x": 239,
+    "y": 34,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 10,
+    "turnover": 12800,
+    "radius": 4079,
+    "population": "40 Billion",
+    "description": "The world Rabiarce is scourged by a deadly disease."
+  },
+  "VESOZAXE": {
+    "name": "VESOZAXE",
+    "x": 101,
+    "y": 42,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 9,
+    "turnover": 17024,
+    "radius": 4453,
+    "population": "38 Billion",
+    "description": "This planet is reasonably famous for the Vesozaxian spotted shrew."
+  },
+  "DIRAZA": {
+    "name": "DIRAZA",
+    "x": 98,
+    "y": 100,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 7,
+    "turnover": 8928,
+    "radius": 6242,
+    "population": "31 Billion",
+    "description": "This world is mildly well known for its hoopy night life and vicious SRM brew."
+  },
+  "ISSOAR": {
+    "name": "ISSOAR",
+    "x": 37,
+    "y": 68,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 8,
+    "turnover": 18720,
+    "radius": 6181,
+    "population": "39 Billion",
+    "description": "This world is  noted for its exciting sit coms."
+  },
+  "XEISARE": {
+    "name": "XEISARE",
+    "x": 239,
+    "y": 10,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 13,
+    "turnover": 40832,
+    "radius": 3567,
+    "population": "58 Billion",
+    "description": "Xeisare is very fabled for its unusual tropical forests."
+  },
+  "QUEDLE": {
+    "name": "QUEDLE",
+    "x": 110,
+    "y": 47,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 6,
+    "turnover": 7128,
+    "radius": 5486,
+    "population": "33 Billion",
+    "description": "Quedle is cursed by killer edible talking treeoids."
+  },
+  "DIXEZA": {
+    "name": "DIXEZA",
+    "x": 148,
+    "y": 129,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 5,
+    "turnover": 4480,
+    "radius": 6292,
+    "population": "20 Billion",
+    "description": "Dixeza is ravaged by dreadful civil war."
+  },
+  "QUENLE": {
+    "name": "QUENLE",
+    "x": 116,
+    "y": 132,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 2,
+    "turnover": 1408,
+    "radius": 5492,
+    "population": "11 Billion",
+    "description": "This world is mildly famous for its vast rain forests and its great dense forests."
+  },
+  "XEATXE": {
+    "name": "XEATXE",
+    "x": 78,
+    "y": 97,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 12,
+    "turnover": 33048,
+    "radius": 3406,
+    "population": "51 Billion",
+    "description": "The world Xeatxe is very noted for its ancient Xeatxian RNDRMEZ plant plantations but beset by evil tree wolfs."
+  },
+  "ARGEZABE": {
+    "name": "ARGEZABE",
+    "x": 54,
+    "y": 66,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 12,
+    "turnover": 38016,
+    "radius": 5430,
+    "population": "54 Billion",
+    "description": "The world Argezabe is mildly noted for its ancient mountains but ravaged by frequent earthquakes."
+  },
+  "ANBEXEAT": {
+    "name": "ANBEXEAT",
+    "x": 83,
+    "y": 68,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 10,
+    "turnover": 22560,
+    "radius": 5715,
+    "population": "47 Billion",
+    "description": "This planet is reasonably famous for its inhabitants' ancient mating traditions."
+  },
+  "SOTEVE": {
+    "name": "SOTEVE",
+    "x": 241,
+    "y": 162,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 8,
+    "turnover": 12672,
+    "radius": 4849,
+    "population": "33 Billion",
+    "description": "The world Soteve is scourged by killer edible arts graduates."
+  },
+  "INISZA": {
+    "name": "INISZA",
+    "x": 58,
+    "y": 150,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 6,
+    "turnover": 6720,
+    "radius": 5946,
+    "population": "30 Billion",
+    "description": "Inisza is most noted for its inhabitants' exceptional love for tourists and its unusual oceans."
+  },
+  "ALERI": {
+    "name": "ALERI",
+    "x": 142,
+    "y": 228,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 5,
+    "turnover": 3840,
+    "radius": 6798,
+    "population": "24 Billion",
+    "description": "This planet is very notable for the Alerian tree snake and its unusual casinos."
+  },
+  "ERONONA": {
+    "name": "ERONONA",
+    "x": 47,
+    "y": 94,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 7,
+    "turnover": 8960,
+    "radius": 2863,
+    "population": "35 Billion",
+    "description": "The planet Eronona is scourged by a evil disease."
+  },
+  "DITEOR": {
+    "name": "DITEOR",
+    "x": 15,
+    "y": 31,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 6,
+    "turnover": 6144,
+    "radius": 6159,
+    "population": "32 Billion",
+    "description": "This world is very fabled for its wierd volcanoes."
+  },
+  "ORVERACE": {
+    "name": "ORVERACE",
+    "x": 35,
+    "y": 25,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 9,
+    "turnover": 10360,
+    "radius": 5155,
+    "population": "37 Billion",
+    "description": "The world Orverace is very famous for its unusual casinos but beset by a lethal disease."
+  },
+  "ERARONQU": {
+    "name": "ERARONQU",
+    "x": 5,
+    "y": 20,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 7,
+    "turnover": 10752,
+    "radius": 2821,
+    "population": "32 Billion",
+    "description": "This planet is most fabled for mud hockey but ravaged by frequent earthquakes."
+  },
+  "GEISAN": {
+    "name": "GEISAN",
+    "x": 250,
+    "y": 127,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 4,
+    "turnover": 3168,
+    "radius": 3834,
+    "population": "22 Billion",
+    "description": "The planet Geisan is most famous for its pink oceans and Zero-G hockey."
+  },
+  "RAMAAN": {
+    "name": "RAMAAN",
+    "x": 251,
+    "y": 251,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 11,
+    "turnover": 28000,
+    "radius": 4091,
+    "population": "50 Billion",
+    "description": "This planet is mildly fabled for the Ramaanian edible moth but beset by evil tree wolfs."
+  },
+  "LETIBEMA": {
+    "name": "LETIBEMA",
+    "x": 186,
+    "y": 91,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 11,
+    "turnover": 31416,
+    "radius": 3258,
+    "population": "51 Billion",
+    "description": "The world Letibema is reasonably noted for its inhabitants' eccentric shyness and its inhabitants' ingrained silliness."
+  },
+  "VERAVE": {
+    "name": "VERAVE",
+    "x": 235,
+    "y": 83,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 11,
+    "turnover": 24696,
+    "radius": 4587,
+    "population": "49 Billion",
+    "description": "Verave is a revolting dump."
+  },
+  "DICELA": {
+    "name": "DICELA",
+    "x": 193,
+    "y": 86,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 3,
+    "turnover": 1920,
+    "radius": 6337,
+    "population": "15 Billion",
+    "description": "Dicela is an unremarkable planet."
+  },
+  "GEMA": {
+    "name": "GEMA",
+    "x": 168,
+    "y": 181,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 1,
+    "turnover": 768,
+    "radius": 3752,
+    "population": "8 Billion",
+    "description": "The world Gema is reasonably noted for mud tennis and the Gemaian evil poet."
+  },
+  "ANVE": {
+    "name": "ANVE",
+    "x": 239,
+    "y": 203,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 11,
+    "turnover": 24696,
+    "radius": 5871,
+    "population": "49 Billion",
+    "description": "This world is a tedious little planet."
+  },
+  "USQURAVE": {
+    "name": "USQURAVE",
+    "x": 81,
+    "y": 160,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 13,
+    "turnover": 49280,
+    "radius": 4945,
+    "population": "56 Billion",
+    "description": "This world is mildly well known for its exotic night life and its inhabitants' ingrained silliness."
+  },
+  "CEERDIZA": {
+    "name": "CEERDIZA",
+    "x": 214,
+    "y": 148,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 9,
+    "turnover": 20640,
+    "radius": 4310,
+    "population": "43 Billion",
+    "description": "This world is most notable for its fabulous  vicious A juice  but ravaged by frequent earthquakes."
+  },
+  "XERAQU": {
+    "name": "XERAQU",
+    "x": 196,
+    "y": 77,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 4,
+    "turnover": 4800,
+    "radius": 3524,
+    "population": "20 Billion",
+    "description": "The planet Xeraqu is mildly notable for Xeraquian lethal water."
+  },
+  "ONMATE": {
+    "name": "ONMATE",
+    "x": 241,
+    "y": 218,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 9,
+    "turnover": 17024,
+    "radius": 6897,
+    "population": "38 Billion",
+    "description": "The planet Onmate is most noted for its inhabitants' exceptional loathing of casinos and the Onmatian spotted wolf."
+  },
+  "REENUS": {
+    "name": "REENUS",
+    "x": 7,
+    "y": 124,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 6,
+    "turnover": 4480,
+    "radius": 6407,
+    "population": "28 Billion",
+    "description": "This planet is most notable for Reenusian SNU brandy but ravaged by occasional solar activity."
+  },
+  "ZAVEZAON": {
+    "name": "ZAVEZAON",
+    "x": 201,
+    "y": 232,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 11,
+    "turnover": 28800,
+    "radius": 4041,
+    "population": "45 Billion",
+    "description": "This planet is beset by dreadful earthquakes."
+  },
+  "QURITI": {
+    "name": "QURITI",
+    "x": 191,
+    "y": 68,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 9,
+    "turnover": 15744,
+    "radius": 5567,
+    "population": "41 Billion",
+    "description": "The planet Quriti is most well known for its great parking meters."
+  },
+  "BIABITE": {
+    "name": "BIABITE",
+    "x": 48,
+    "y": 247,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 2,
+    "turnover": 1560,
+    "radius": 4400,
+    "population": "13 Billion",
+    "description": "This world is very notable for the Biabitian tree snake."
+  },
+  "ATRAGEES": {
+    "name": "ATRAGEES",
+    "x": 156,
+    "y": 230,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 4,
+    "turnover": 4928,
+    "radius": 3228,
+    "population": "22 Billion",
+    "description": "Atragees is reasonably notable for its great tropical forests but cursed by dreadful solar activity."
+  },
+  "LEREQU": {
+    "name": "LEREQU",
+    "x": 105,
+    "y": 3,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 7,
+    "turnover": 10080,
+    "radius": 3177,
+    "population": "30 Billion",
+    "description": "This planet is very notable for the Lerequian edible poet and Zero-G cricket."
+  },
+  "ENVEBE": {
+    "name": "ENVEBE",
+    "x": 202,
+    "y": 154,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 11,
+    "turnover": 31360,
+    "radius": 3530,
+    "population": "49 Billion",
+    "description": "This world is reasonably well known for the Envebian spotted shrew but plagued by evil tree wolfs."
+  },
+  "USORON": {
+    "name": "USORON",
+    "x": 93,
+    "y": 147,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 10,
+    "turnover": 28952,
+    "radius": 4957,
+    "population": "47 Billion",
+    "description": "This world is very well known for Usoronian lethal brandy and its exotic night life."
+  },
+  "ORORRA": {
+    "name": "ORORRA",
+    "x": 96,
+    "y": 95,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 4,
+    "turnover": 5400,
+    "radius": 5216,
+    "population": "25 Billion",
+    "description": "This planet is a dull place."
+  },
+  "LAATRE": {
+    "name": "LAATRE",
+    "x": 199,
+    "y": 148,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 5,
+    "turnover": 2944,
+    "radius": 4295,
+    "population": "23 Billion",
+    "description": "Laatre is an unremarkable dump."
+  },
+  "BEVERI": {
+    "name": "BEVERI",
+    "x": 212,
+    "y": 206,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 2,
+    "turnover": 1408,
+    "radius": 3796,
+    "population": "11 Billion",
+    "description": "Beveri is an unremarkable planet."
+  },
+  "TEXEBI": {
+    "name": "TEXEBI",
+    "x": 103,
+    "y": 30,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 8,
+    "turnover": 11520,
+    "radius": 5991,
+    "population": "40 Billion",
+    "description": "This world is very well known for vicious SONNUAC brandy and its unusual tropical forests."
+  },
+  "DIORMAEN": {
+    "name": "DIORMAEN",
+    "x": 100,
+    "y": 230,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 6,
+    "turnover": 11968,
+    "radius": 6244,
+    "population": "34 Billion",
+    "description": "This planet is reasonably noted for its exotic goat meat."
+  },
+  "TIVERE": {
+    "name": "TIVERE",
+    "x": 50,
+    "y": 75,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 10,
+    "turnover": 25760,
+    "radius": 4658,
+    "population": "46 Billion",
+    "description": "The planet Tivere is cursed by killer mountain goats."
+  },
+  "ZABESO": {
+    "name": "ZABESO",
+    "x": 142,
+    "y": 224,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 11,
+    "turnover": 20640,
+    "radius": 3982,
+    "population": "43 Billion",
+    "description": "The world Zabeso is reasonably noted for its inhabitants' exceptional love for tourists."
+  },
+  "QULETE": {
+    "name": "QULETE",
+    "x": 127,
+    "y": 7,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 6,
+    "turnover": 5208,
+    "radius": 5503,
+    "population": "31 Billion",
+    "description": "The world Qulete is a dull place."
+  },
+  "VEMAOR": {
+    "name": "VEMAOR",
+    "x": 120,
+    "y": 252,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 3,
+    "turnover": 2560,
+    "radius": 4472,
+    "population": "16 Billion",
+    "description": "The world Vemaor is a boring world."
+  },
+  "LAATSO": {
+    "name": "LAATSO",
+    "x": 59,
+    "y": 217,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 12,
+    "turnover": 28800,
+    "radius": 2875,
+    "population": "50 Billion",
+    "description": "This planet is a tedious little planet."
+  },
+  "RESORI": {
+    "name": "RESORI",
+    "x": 103,
+    "y": 81,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 12,
+    "turnover": 28800,
+    "radius": 6503,
+    "population": "50 Billion",
+    "description": "This planet is  noted for Zero-G cricket."
+  },
+  "ANAMA": {
+    "name": "ANAMA",
+    "x": 21,
+    "y": 190,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 4,
+    "turnover": 3200,
+    "radius": 5653,
+    "population": "20 Billion",
+    "description": "This world is  noted for its exciting  lethal OEZRM juice ."
+  },
+  "ANSOREAT": {
+    "name": "ANSOREAT",
+    "x": 43,
+    "y": 160,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 13,
+    "turnover": 29120,
+    "radius": 5675,
+    "population": "52 Billion",
+    "description": "This planet is a dull world."
+  },
+  "SOSOLE": {
+    "name": "SOSOLE",
+    "x": 177,
+    "y": 238,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 4,
+    "turnover": 4032,
+    "radius": 4785,
+    "population": "21 Billion",
+    "description": "The world Sosole is  fabled for its wierd rock formations and the Sosolian deadly goat."
+  },
+  "ORARRA": {
+    "name": "ORARRA",
+    "x": 144,
+    "y": 33,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 10,
+    "turnover": 31680,
+    "radius": 5264,
+    "population": "44 Billion",
+    "description": "This planet is very well known for vicious R water and the Orarraian tree ant."
+  },
+  "TIGEBERE": {
+    "name": "TIGEBERE",
+    "x": 216,
+    "y": 180,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 8,
+    "turnover": 21120,
+    "radius": 4824,
+    "population": "40 Billion",
+    "description": "The planet Tigebere is most famous for its vast rain forests."
+  },
+  "CEBIOR": {
+    "name": "CEBIOR",
+    "x": 206,
+    "y": 83,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 10,
+    "turnover": 22680,
+    "radius": 4302,
+    "population": "45 Billion",
+    "description": "This world is reasonably well known for its vast oceans but ravaged by vicious vicious wolfs."
+  },
+  "CEZAA": {
+    "name": "CEZAA",
+    "x": 165,
+    "y": 57,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 6,
+    "turnover": 5376,
+    "radius": 4261,
+    "population": "24 Billion",
+    "description": "This planet is plagued by deadly earthquakes."
+  },
+  "INBEED": {
+    "name": "INBEED",
+    "x": 248,
+    "y": 207,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 1,
+    "turnover": 768,
+    "radius": 6136,
+    "population": "8 Billion",
+    "description": "This planet is most notable for Inbeedian lethal brandy but beset by a evil disease."
+  },
+  "CEVERA": {
+    "name": "CEVERA",
+    "x": 184,
+    "y": 88,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 11,
+    "turnover": 33120,
+    "radius": 4280,
+    "population": "46 Billion",
+    "description": "The planet Cevera is most well known for its hoopy casinos."
+  },
+  "ANONMABI": {
+    "name": "ANONMABI",
+    "x": 112,
+    "y": 20,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 8,
+    "turnover": 21120,
+    "radius": 5744,
+    "population": "40 Billion",
+    "description": "This planet is reasonably noted for its exotic goat soup."
+  },
+  "ATGEANER": {
+    "name": "ATGEANER",
+    "x": 102,
+    "y": 107,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 10,
+    "turnover": 25760,
+    "radius": 3174,
+    "population": "46 Billion",
+    "description": "This world is mildly famous for its vast oceans and its inhabitants' exceptional love for tourists."
+  },
+  "AANAN": {
+    "name": "AANAN",
+    "x": 80,
+    "y": 91,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 6,
+    "turnover": 8736,
+    "radius": 6736,
+    "population": "26 Billion",
+    "description": "The planet Aanan is very famous for its hoopy night life but scourged by killer edible OEZoids."
+  },
+  "ISONZA": {
+    "name": "ISONZA",
+    "x": 230,
+    "y": 27,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 9,
+    "turnover": 15288,
+    "radius": 6374,
+    "population": "39 Billion",
+    "description": "This planet is beset by deadly earthquakes."
+  },
+  "CEMABE": {
+    "name": "CEMABE",
+    "x": 225,
+    "y": 100,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 4,
+    "turnover": 3200,
+    "radius": 4321,
+    "population": "20 Billion",
+    "description": "This world is reasonably well known for its vast oceans but ravaged by vicious vicious wolfs."
+  },
+  "ZATEBISO": {
+    "name": "ZATEBISO",
+    "x": 133,
+    "y": 51,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 8,
+    "turnover": 16128,
+    "radius": 3973,
+    "population": "36 Billion",
+    "description": "The world Zatebiso is most famous for the Zatebisoian spotted shrew."
+  },
+  "MAORIN": {
+    "name": "MAORIN",
+    "x": 7,
+    "y": 70,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 7,
+    "turnover": 8960,
+    "radius": 5639,
+    "population": "35 Billion",
+    "description": "Maorin is very notable for its inhabitants' ingrained silliness."
+  },
+  "EDTIXEEN": {
+    "name": "EDTIXEEN",
+    "x": 210,
+    "y": 108,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 5,
+    "turnover": 3840,
+    "radius": 5074,
+    "population": "24 Billion",
+    "description": "The world Edtixeen is reasonably noted for its inhabitants' eccentric love for tourists and the Edtixeenian tree snake."
+  },
+  "INXEXEAT": {
+    "name": "INXEXEAT",
+    "x": 178,
+    "y": 66,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 10,
+    "turnover": 18816,
+    "radius": 6066,
+    "population": "42 Billion",
+    "description": "The world Inxexeat is reasonably noted for its inhabitants' eccentric shyness."
+  },
+  "LAESER": {
+    "name": "LAESER",
+    "x": 209,
+    "y": 66,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 8,
+    "turnover": 12672,
+    "radius": 4305,
+    "population": "33 Billion",
+    "description": "This planet is beset by dreadful earthquakes."
+  },
+  "SOBITE": {
+    "name": "SOBITE",
+    "x": 78,
+    "y": 144,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 13,
+    "turnover": 44000,
+    "radius": 4686,
+    "population": "55 Billion",
+    "description": "Sobite is most noted for the Sobitian mountain lobstoid and the Sobitian evil poet."
+  },
+  "REVEABE": {
+    "name": "REVEABE",
+    "x": 42,
+    "y": 188,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 10,
+    "turnover": 25344,
+    "radius": 6442,
+    "population": "48 Billion",
+    "description": "This planet is a tedious place."
+  },
+  "EDANSO": {
+    "name": "EDANSO",
+    "x": 51,
+    "y": 47,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 7,
+    "turnover": 7992,
+    "radius": 4915,
+    "population": "37 Billion",
+    "description": "Edanso is mildly well known for its hoopy night life and Edansoian SITNU juice."
+  },
+  "ISONED": {
+    "name": "ISONED",
+    "x": 91,
+    "y": 71,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 4,
+    "turnover": 1920,
+    "radius": 6235,
+    "population": "20 Billion",
+    "description": "The planet Isoned is scourged by killer edible arts graduates."
+  },
+  "INORAN": {
+    "name": "INORAN",
+    "x": 21,
+    "y": 184,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 7,
+    "turnover": 6912,
+    "radius": 5909,
+    "population": "27 Billion",
+    "description": "The planet Inoran is scourged by killer edible talking treeoids."
+  },
+  "VEENAR": {
+    "name": "VEENAR",
+    "x": 225,
+    "y": 123,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 9,
+    "turnover": 20664,
+    "radius": 4577,
+    "population": "41 Billion",
+    "description": "The planet Veenar is most famous for the Veenarian evil arts graduate and its fabulous  ENBEB brew ."
+  },
+  "ERREENEN": {
+    "name": "ERREENEN",
+    "x": 115,
+    "y": 42,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 13,
+    "turnover": 40832,
+    "radius": 2931,
+    "population": "58 Billion",
+    "description": "This world is mildly well known for its hoopy night life and Erreenenian ETE juice."
+  },
+  "BEEDRIAR": {
+    "name": "BEEDRIAR",
+    "x": 114,
+    "y": 242,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 11,
+    "turnover": 31360,
+    "radius": 3698,
+    "population": "49 Billion",
+    "description": "This world is mildly well known for its hoopy night life and Beedriarian lethal brandy."
+  },
+  "LEMAED": {
+    "name": "LEMAED",
+    "x": 10,
+    "y": 190,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 5,
+    "turnover": 4800,
+    "radius": 3082,
+    "population": "25 Billion",
+    "description": "This planet is mildly fabled for its inhabitants' eccentric shyness but cursed by unpredictable earthquakes."
+  },
+  "USBIRA": {
+    "name": "USBIRA",
+    "x": 37,
+    "y": 24,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 11,
+    "turnover": 24640,
+    "radius": 4901,
+    "population": "44 Billion",
+    "description": "This world is a tedious little planet."
+  },
+  "ISRARA": {
+    "name": "ISRARA",
+    "x": 67,
+    "y": 180,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 6,
+    "turnover": 4480,
+    "radius": 6211,
+    "population": "28 Billion",
+    "description": "Israra is most noted for its inhabitants' exceptional loathing of food blenders and its exciting sit coms."
+  },
+  "ERINGE": {
+    "name": "ERINGE",
+    "x": 166,
+    "y": 244,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 8,
+    "turnover": 14208,
+    "radius": 2982,
+    "population": "37 Billion",
+    "description": "Eringe is  well known for its inhabitants' unusual silliness but cursed by deadly civil war."
+  },
+  "ABEGE": {
+    "name": "ABEGE",
+    "x": 160,
+    "y": 35,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 7,
+    "turnover": 14336,
+    "radius": 6816,
+    "population": "32 Billion",
+    "description": "The world Abege is most well known for its vast dense forests."
+  },
+  "ISSOINEN": {
+    "name": "ISSOINEN",
+    "x": 102,
+    "y": 3,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 8,
+    "turnover": 9240,
+    "radius": 6246,
+    "population": "33 Billion",
+    "description": "The planet Issoinen is very noted for its ancient mountains but ravaged by occasional earthquakes."
+  },
+  "BICEISES": {
+    "name": "BICEISES",
+    "x": 50,
+    "y": 204,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 8,
+    "turnover": 12096,
+    "radius": 4402,
+    "population": "36 Billion",
+    "description": "The world Biceises is mildly fabled for its inhabitants' ingrained silliness but beset by deadly tree snakes."
+  },
+  "MAENSO": {
+    "name": "MAENSO",
+    "x": 201,
+    "y": 253,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 5,
+    "turnover": 5760,
+    "radius": 5833,
+    "population": "24 Billion",
+    "description": "This world is reasonably well known for its great dense forests but scourged by killer mountain IAIRASAoids."
+  },
+  "RIARDI": {
+    "name": "RIARDI",
+    "x": 4,
+    "y": 231,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 4,
+    "turnover": 6240,
+    "radius": 6404,
+    "population": "26 Billion",
+    "description": "This world is a tedious little planet."
+  },
+  "DIERBEER": {
+    "name": "DIERBEER",
+    "x": 85,
+    "y": 173,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 8,
+    "turnover": 18040,
+    "radius": 6229,
+    "population": "41 Billion",
+    "description": "Dierbeer is cursed by dreadful civil war."
+  },
+  "RATITE": {
+    "name": "RATITE",
+    "x": 144,
+    "y": 243,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 8,
+    "turnover": 18648,
+    "radius": 3984,
+    "population": "37 Billion",
+    "description": "This world is plagued by frequent solar activity."
+  },
+  "ISXEES": {
+    "name": "ISXEES",
+    "x": 232,
+    "y": 188,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 2,
+    "turnover": 1408,
+    "radius": 6376,
+    "population": "11 Billion",
+    "description": "The planet Isxees is reasonably fabled for Zero-G hockey and Isxeesian E brandy."
+  },
+  "LASOCE": {
+    "name": "LASOCE",
+    "x": 41,
+    "y": 137,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 6,
+    "turnover": 5376,
+    "radius": 4137,
+    "population": "24 Billion",
+    "description": "This world is very notable for its inhabitants' ingrained shyness."
+  },
+  "ATIUS": {
+    "name": "ATIUS",
+    "x": 226,
+    "y": 133,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 8,
+    "turnover": 14040,
+    "radius": 6882,
+    "population": "39 Billion",
+    "description": "This world is most notable for Atiusian lethal brandy but beset by deadly tree wolfs."
+  },
+  "RECEXELA": {
+    "name": "RECEXELA",
+    "x": 110,
+    "y": 40,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 14,
+    "turnover": 52800,
+    "radius": 6510,
+    "population": "60 Billion",
+    "description": "The planet Recexela is very noted for its ancient NLO tulip plantations but beset by a evil disease."
+  },
+  "ISLAESIS": {
+    "name": "ISLAESIS",
+    "x": 85,
+    "y": 226,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 10,
+    "turnover": 28800,
+    "radius": 6229,
+    "population": "45 Billion",
+    "description": "Islaesis is ravaged by occasional solar activity."
+  },
+  "TEGETE": {
+    "name": "TEGETE",
+    "x": 189,
+    "y": 9,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 9,
+    "turnover": 15552,
+    "radius": 6077,
+    "population": "36 Billion",
+    "description": "The world Tegete is reasonably noted for its inhabitants' eccentric shyness and its inhabitants' ingrained shyness."
+  },
+  "ANRAIN": {
+    "name": "ANRAIN",
+    "x": 60,
+    "y": 252,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 6,
+    "turnover": 9408,
+    "radius": 5692,
+    "population": "28 Billion",
+    "description": "This world is very notable for its inhabitants' unusual silliness and its fabulous  ANO\u0000 juice ."
+  },
+  "TECERI": {
+    "name": "TECERI",
+    "x": 156,
+    "y": 236,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 3,
+    "turnover": 2560,
+    "radius": 6044,
+    "population": "16 Billion",
+    "description": "Teceri is  well known for the Tecerian spotted leopard but plagued by lethal lethal yaks."
+  },
+  "ZAGEUSER": {
+    "name": "ZAGEUSER",
+    "x": 160,
+    "y": 30,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 4,
+    "turnover": 5888,
+    "radius": 4000,
+    "population": "23 Billion",
+    "description": "The planet Zageuser is most well known for its exotic cuisine."
+  },
+  "TELALE": {
+    "name": "TELALE",
+    "x": 48,
+    "y": 232,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 10,
+    "turnover": 26240,
+    "radius": 5936,
+    "population": "41 Billion",
+    "description": "This world is a tedious little planet."
+  },
+  "ARRIES": {
+    "name": "ARRIES",
+    "x": 211,
+    "y": 129,
+    "economy": {
+      "level": 3,
+      "name": "Mainly Ind"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 9,
+    "turnover": 10360,
+    "radius": 5587,
+    "population": "37 Billion",
+    "description": "This world is most notable for vicious N brandy but scourged by deadly civil war."
+  },
+  "SOALEED": {
+    "name": "SOALEED",
+    "x": 169,
+    "y": 62,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 5,
+    "turnover": 5824,
+    "radius": 4777,
+    "population": "26 Billion",
+    "description": "This world is most fabled for Soaleedian T water but ravaged by occasional solar activity."
+  },
+  "ESGEBI": {
+    "name": "ESGEBI",
+    "x": 152,
+    "y": 33,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 8,
+    "turnover": 13824,
+    "radius": 5272,
+    "population": "32 Billion",
+    "description": "The world Esgebi is reasonably famous for the Esgebian evil RTHoid."
+  },
+  "TELACE": {
+    "name": "TELACE",
+    "x": 179,
+    "y": 38,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 8,
+    "turnover": 13120,
+    "radius": 6067,
+    "population": "41 Billion",
+    "description": "Telace is an unremarkable dump."
+  },
+  "RAENONCE": {
+    "name": "RAENONCE",
+    "x": 88,
+    "y": 133,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 7,
+    "turnover": 16280,
+    "radius": 3928,
+    "population": "37 Billion",
+    "description": "The world Raenonce is a dull world."
+  },
+  "TITEQU": {
+    "name": "TITEQU",
+    "x": 229,
+    "y": 159,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 5,
+    "turnover": 6264,
+    "radius": 4837,
+    "population": "29 Billion",
+    "description": "The world Titequ is  notable for its great volcanoes and its inhabitants' eccentric shyness."
+  },
+  "CEREXE": {
+    "name": "CEREXE",
+    "x": 78,
+    "y": 154,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 8,
+    "turnover": 7936,
+    "radius": 4174,
+    "population": "31 Billion",
+    "description": "The planet Cerexe is  well known for its inhabitants' ancient loathing of casinos but plagued by occasional solar activity."
+  },
+  "CEISED": {
+    "name": "CEISED",
+    "x": 53,
+    "y": 66,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 0,
+      "name": "Anarchy"
+    },
+    "techlevel": 7,
+    "turnover": 6912,
+    "radius": 4149,
+    "population": "27 Billion",
+    "description": "This planet is a dull world."
+  },
+  "ERGERE": {
+    "name": "ERGERE",
+    "x": 186,
+    "y": 120,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 5,
+      "name": "Confederacy"
+    },
+    "techlevel": 13,
+    "turnover": 38880,
+    "radius": 3002,
+    "population": "54 Billion",
+    "description": "This planet is plagued by frequent solar activity."
+  },
+  "BEZAORAT": {
+    "name": "BEZAORAT",
+    "x": 97,
+    "y": 14,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 7,
+      "name": "Corporate State"
+    },
+    "techlevel": 7,
+    "turnover": 13376,
+    "radius": 3681,
+    "population": "38 Billion",
+    "description": "Bezaorat is ravaged by unpredictable civil war."
+  },
+  "AANTESO": {
+    "name": "AANTESO",
+    "x": 17,
+    "y": 57,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 6,
+      "name": "Democracy"
+    },
+    "techlevel": 11,
+    "turnover": 34560,
+    "radius": 6673,
+    "population": "48 Billion",
+    "description": "The world Aanteso is beset by dreadful earthquakes."
+  },
+  "RIXEES": {
+    "name": "RIXEES",
+    "x": 103,
+    "y": 60,
+    "economy": {
+      "level": 4,
+      "name": "Mainly Agri"
+    },
+    "government": {
+      "level": 2,
+      "name": "Multi-Government"
+    },
+    "techlevel": 8,
+    "turnover": 10080,
+    "radius": 6503,
+    "population": "35 Billion",
+    "description": "This planet is  fabled for its wierd volcanoes."
+  },
+  "VEARIN": {
+    "name": "VEARIN",
+    "x": 42,
+    "y": 201,
+    "economy": {
+      "level": 1,
+      "name": "Average Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 11,
+    "turnover": 22680,
+    "radius": 4394,
+    "population": "45 Billion",
+    "description": "Vearin is most famous for its pink Vearinian RRMEG EEZNOweed plantations and Vearinian shrew cutlet."
+  },
+  "ZARIA": {
+    "name": "ZARIA",
+    "x": 237,
+    "y": 12,
+    "economy": {
+      "level": 6,
+      "name": "Average Agri"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 4,
+    "turnover": 3200,
+    "radius": 4077,
+    "population": "20 Billion",
+    "description": "This world is most notable for its fabulous cuisine but plagued by evil spotted cats."
+  },
+  "XELAED": {
+    "name": "XELAED",
+    "x": 114,
+    "y": 175,
+    "economy": {
+      "level": 7,
+      "name": "Poor Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 5,
+    "turnover": 5376,
+    "radius": 2930,
+    "population": "28 Billion",
+    "description": "The world Xelaed is a boring world."
+  },
+  "ERRIUS": {
+    "name": "ERRIUS",
+    "x": 184,
+    "y": 149,
+    "economy": {
+      "level": 5,
+      "name": "Rich Agri"
+    },
+    "government": {
+      "level": 4,
+      "name": "Communist"
+    },
+    "techlevel": 5,
+    "turnover": 8320,
+    "radius": 3000,
+    "population": "26 Billion",
+    "description": "Errius is an unremarkable dump."
+  },
+  "ONEDED": {
+    "name": "ONEDED",
+    "x": 24,
+    "y": 232,
+    "economy": {
+      "level": 2,
+      "name": "Poor Ind"
+    },
+    "government": {
+      "level": 1,
+      "name": "Feudal"
+    },
+    "techlevel": 7,
+    "turnover": 8960,
+    "radius": 6680,
+    "population": "28 Billion",
+    "description": "This world is a tedious little planet."
+  },
+  "ATXEIN": {
+    "name": "ATXEIN",
+    "x": 24,
+    "y": 152,
+    "economy": {
+      "level": 0,
+      "name": "Rich Ind"
+    },
+    "government": {
+      "level": 3,
+      "name": "Dictatorship"
+    },
+    "techlevel": 10,
+    "turnover": 22400,
+    "radius": 3096,
+    "population": "40 Billion",
+    "description": "The world Atxein is very famous for its unusual sit coms but ravaged by lethal spotted batoids."
+  }
+}
