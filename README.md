@@ -1,9 +1,7 @@
-![Elite JSON](http://cattopus23.com/img/panel-CAT40.png)
+![Screen Shot](http://cattopus23.com/img/panel-CAT40.png)
+CAT40 EliteJSON
+===============
 
-EliteJSON
-=========
-
-Dump of all eight original Elite galaxies in JSON format, for use with a future as yet undecided web based game.
-Now that Elite is coming back as Elite Dangerous though I probably won't do much any time soon.
+Elite galaxy data as JSON files
 
 (with the odd unicode error I'll sort out at some point)
